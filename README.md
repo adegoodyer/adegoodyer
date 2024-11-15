@@ -9,6 +9,3 @@
 - Kubernetes bootstrapping and administration
 - Advanced CI/CD systems and GitOps
 - Golang web development and systems/network programming
-
-## Holopins
-[![An image of @adegoodyer's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/adegoodyer)](https://holopin.io/@adegoodyer)
