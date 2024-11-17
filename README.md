@@ -9,3 +9,6 @@
 - Kubernetes bootstrapping and administration
 - Advanced CI/CD systems and GitOps
 - Golang web development and systems/network programming
+
+## Community Contributions
+![Contributions](https://github-readme-stats.vercel.app/api?username=adegoodyer&show_icons=true&hide_title=true)
