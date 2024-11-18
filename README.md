@@ -12,3 +12,5 @@
 
 ## Community Contributions
 ![Contributions](https://github-readme-stats.vercel.app/api?username=adegoodyer&show_icons=true&hide_title=true)
+
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-donate-yellow)](https://www.buymeacoffee.com/adegoodyer)
